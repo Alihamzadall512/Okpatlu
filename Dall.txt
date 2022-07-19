@@ -387,32 +387,21 @@ def follow(ses,coki):
 	ses.get(('https://mbasic.facebook.com' + str(get)), cookies={'cookie': coki}).text
 
 logo = ("""\033[1;32m
-                 
-                                                                                                        
-                                                                                                        
-PPPPPPPPPPPPPPPPP        AAA         TTTTTTTTTTTTTTTTTTTTTTTLLLLLLLLLLL            UUUUUUUU     UUUUUUUU
-P::::::::::::::::P      A:::A        T:::::::::::::::::::::TL:::::::::L            U::::::U     U::::::U
-P::::::PPPPPP:::::P    A:::::A       T:::::::::::::::::::::TL:::::::::L            U::::::U     U::::::U
-PP:::::P     P:::::P  A:::::::A      T:::::TT:::::::TT:::::TLL:::::::LL            UU:::::U     U:::::UU
-  P::::P     P:::::P A:::::::::A     TTTTTT  T:::::T  TTTTTT  L:::::L               U:::::U     U:::::U 
-  P::::P     P:::::PA:::::A:::::A            T:::::T          L:::::L               U:::::D     D:::::U 
-  P::::PPPPPP:::::PA:::::A A:::::A           T:::::T          L:::::L               U:::::D     D:::::U 
-  P:::::::::::::PPA:::::A   A:::::A          T:::::T          L:::::L               U:::::D     D:::::U 
-  P::::PPPPPPPPP A:::::A     A:::::A         T:::::T          L:::::L               U:::::D     D:::::U 
-  P::::P        A:::::AAAAAAAAA:::::A        T:::::T          L:::::L               U:::::D     D:::::U 
-  P::::P       A:::::::::::::::::::::A       T:::::T          L:::::L               U:::::D     D:::::U 
-  P::::P      A:::::AAAAAAAAAAAAA:::::A      T:::::T          L:::::L         LLLLLLU::::::U   U::::::U 
-PP::::::PP   A:::::A             A:::::A   TT:::::::TT      LL:::::::LLLLLLLLL:::::LU:::::::UUU:::::::U 
-P::::::::P  A:::::A               A:::::A  T:::::::::T      L::::::::::::::::::::::L UU:::::::::::::UU  
-P::::::::P A:::::A                 A:::::A T:::::::::T      L::::::::::::::::::::::L   UU:::::::::UU    
-PPPPPPPPPPAAAAAAA                   AAAAAAATTTTTTTTTTT      LLLLLLLLLLLLLLLLLLLLLLLL     UUUUUUUUU      
-                                                                                                       
-                  𝙈𝙪𝙟𝙚 𝙒𝙤 𝙇𝙤𝙜 𝙥𝙖𝙨𝙖𝙣𝙙 𝙃𝙖𝙞𝙣 
-                             𝙅𝙤 𝙈𝙪𝙟𝙚 𝙋𝙖𝙨𝙖𝙣𝙙 𝙉𝙝𝙞 𝙆𝙧𝙩𝙚                                            
+      
+  ____   _  _____ _    _   _ 
+ |  _ \ / \|_   _| |  | | | |
+ | |_) / _ \ | | | |  | | | |
+ |  __/ ___ \| | | |__| |_| |
+ |_| /_/   \_\_| |_____\___/ 
+         
+                                                                                                   
+                                                                             
+       𝙈𝙪𝙟𝙚 𝙒𝙤 𝙇𝙤𝙜 𝙥𝙖𝙨𝙖𝙣𝙙 𝙃𝙖𝙞𝙣  
+              𝙅𝙤 𝙈𝙪𝙟𝙚 𝙋𝙖𝙨𝙖𝙣𝙙 𝙉𝙝𝙞 𝙆𝙧𝙩𝙚                                            
 
 __________________×______________________
   
-  Auther   :  Ali Hamza Dall
+  Auther   :  ALI HAMZA PATLU
  
   Github   :  Abi Bana Raha Hu 
 
